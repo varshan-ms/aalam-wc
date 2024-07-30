@@ -9,7 +9,7 @@ Follow the instructions below to setup and test the components
 ```
 git clone https://github.com/aalamdev/aalam-wc
 cd aalam-wc
-npm install .
+sudo apt npm install .
 npm run dev
 ```
 
